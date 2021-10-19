@@ -1,1 +1,1 @@
-# Daily-Practice
+This is the folder for daily coding practice.
